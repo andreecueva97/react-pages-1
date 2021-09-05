@@ -1,3 +1,8 @@
+# If you need publish this app first:
+   clone repository
+   open terminal and run:
+   ## npm run deploy
+   ## npm run build
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
